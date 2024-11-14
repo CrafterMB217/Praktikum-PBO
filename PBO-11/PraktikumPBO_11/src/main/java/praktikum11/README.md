@@ -1,0 +1,1 @@
+SC stands for Study Case
